@@ -796,6 +796,9 @@ body{
     text-align: center;
     padding-top:60px;
 }
+.subb-child2 {
+position: relative;
+}
 .subb-child2 input{
   margin:50px 0px;
   height:50px;
@@ -809,14 +812,14 @@ body{
   .subb-child2 .isubb{
    position: absolute;
    color: #999;
-   left:31%;
-   top:502.5%;
+   left:26%;
+   top:43%;
    }
     .subb-child2 .subb{
    position: absolute;
    color:white;
-   left:60%;
-   top:501%;
+   left:64%;
+   top:40%;
    padding:10px 20px;
    background-color:rgb(250,116,54);
    border:none;
