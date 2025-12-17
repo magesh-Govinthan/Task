@@ -809,14 +809,14 @@ body{
   .subb-child2 .isubb{
    position: absolute;
    color: #999;
-   left:530px;
-   top:3653px;
+   left:31%;
+   top:502.5%;
    }
     .subb-child2 .subb{
    position: absolute;
    color:white;
-   left:950px;
-   top:3645px;
+   left:60%;
+   top:501%;
    padding:10px 20px;
    background-color:rgb(250,116,54);
    border:none;
